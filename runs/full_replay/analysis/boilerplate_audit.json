@@ -1,0 +1,186 @@
+{
+  "qwen3-8b": {
+    "first_lines": [
+      [
+        "**Welcome to the ViewData System**",
+        8
+      ],
+      [
+        "**The Long Wars**",
+        8
+      ],
+      [
+        "**Entity Relationship Model (ER Model) Diagram Report: Onlin",
+        4
+      ],
+      [
+        "The 4P's of marketing—product, price, place, and promotion—a",
+        3
+      ],
+      [
+        "🌸 **Easter Lunch at Semiramis InterContinental** 🌸",
+        3
+      ]
+    ],
+    "last_lines": [
+      [
+        "[Date]",
+        8
+      ],
+      [
+        "Would you like help **writing a full section** of your artic",
+        4
+      ],
+      [
+        "Would you like a **guided hypnosis script** specifically for",
+        4
+      ],
+      [
+        "Would you like that?",
+        4
+      ],
+      [
+        "Let me know if you want help with **customizing your hot cho",
+        3
+      ]
+    ]
+  },
+  "qwen3-32b": {
+    "first_lines": [
+      [
+        "Great question!",
+        3
+      ],
+      [
+        "Absolutely! Incorporating **SEO-friendly keywords and phrase",
+        2
+      ],
+      [
+        "That’s a **very thoughtful and important question** — and yo",
+        2
+      ],
+      [
+        "Absolutely! Integrating the **container loading/unloading op",
+        2
+      ],
+      [
+        "That’s a **really thoughtful and important question**, and y",
+        2
+      ]
+    ],
+    "last_lines": [
+      [
+        "Let me know how you'd like to proceed!",
+        22
+      ],
+      [
+        "Would you like that?",
+        7
+      ],
+      [
+        "Let me know!",
+        5
+      ],
+      [
+        "Let me know how you’d like to proceed!",
+        4
+      ],
+      [
+        "If you'd like, I can help you **craft a full paragraph** or ",
+        3
+      ]
+    ]
+  },
+  "gemma3-12b": {
+    "first_lines": [
+      [
+        "```python",
+        9
+      ],
+      [
+        "**(Screen clears with a slightly flickering teal background.",
+        8
+      ],
+      [
+        "## Entity-Relationship Model (ERM) Diagrams: A Detailed Repo",
+        5
+      ],
+      [
+        "You're absolutely right to be concerned about the potential ",
+        2
+      ],
+      [
+        "## The Enduring Relevance of the 4 Ps in Marketing Strategy",
+        2
+      ]
+    ],
+    "last_lines": [
+      [
+        "**DISCLAIMER:** *This is a hypothetical exercise for illustr",
+        8
+      ],
+      [
+        "**Disclaimer:** *This information is for educational purpose",
+        6
+      ],
+      [
+        "*   **Financial Advice Disclaimer:** This is purely for fict",
+        4
+      ],
+      [
+        "Do you want me to elaborate on any of these aspects, or perh",
+        2
+      ],
+      [
+        "*   **What is the exact word or character limit for the ackn",
+        2
+      ]
+    ]
+  },
+  "gemma3-27b": {
+    "first_lines": [
+      [
+        "```python",
+        9
+      ],
+      [
+        "```",
+        8
+      ],
+      [
+        "## Entity Relationship Model (ERM) Diagrams: A Comprehensive",
+        5
+      ],
+      [
+        "```lua",
+        3
+      ],
+      [
+        "## The Foundation of Marketing Success: Exploring the 4Ps",
+        2
+      ]
+    ],
+    "last_lines": [
+      [
+        "**Disclaimer:** I am an AI chatbot and cannot provide legal ",
+        3
+      ],
+      [
+        "I hope this comprehensive list is helpful!  Let me know if y",
+        2
+      ],
+      [
+        "I hope this detailed response is helpful!  Let me know if yo",
+        2
+      ],
+      [
+        "Remember to adapt the code examples to your specific databas",
+        2
+      ],
+      [
+        "Good luck!  Let me know if you'd like me to elaborate on any",
+        2
+      ]
+    ]
+  }
+}
